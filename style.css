@@ -1,0 +1,19 @@
+
+/* css */
+.bg-danger { background-color: #f8d7da; }
+.bg-warning { background-color: #fff3cd; }
+.bg-success { background-color: #d4edda; }
+.btn-group {
+    display: flex;
+    gap: 5px;
+}
+.btn-group button {
+    flex: 1;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+td {
+    border: 1px solid #dee2e6;
+}
